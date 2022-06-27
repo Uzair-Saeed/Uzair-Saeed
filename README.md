@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Uzair-Saeed
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN Stack Development
-- 💞️ I’m looking to collaborate on React + Redux
+- 🌱 I’m currently working as NodeJS Engineer
+- 💞️ I’m looking to collaborate on NodeJS + React + Redux
 - 📫 How to reach me? Here is my email uzairsaeed2015@gmail.com
 
 <!---
