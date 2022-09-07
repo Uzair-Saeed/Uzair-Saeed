@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Uzair-Saeed
-- 👀 I’m interested in Web Development
 - 🌱 I’m currently working as NodeJS Engineer
 - 💞️ I’m looking to collaborate on NodeJS + React
 - 📫 How to reach me? Here is my email uzairsaeed2015@gmail.com
