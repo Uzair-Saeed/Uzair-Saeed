@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Uzair-Saeed
 - 🌱 I’m currently working as NodeJS Engineer
-- 💞️ I’m looking to collaborate on NodeJS + React
+- 💞️ I’m looking to collaborate on NodeJS, Express, and NestJS etc.
 - 📫 How to reach me? Here is my email uzairsaeed2015@gmail.com
 
 <!---
